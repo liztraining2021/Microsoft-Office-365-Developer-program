@@ -28,5 +28,5 @@
 
 4 - Seguir las instrucciones de los laboratorios en un entorno limpio y listo para iniciar con el aprendizaje de Power Platform y de Desarrollo de Microsoft 365
 
-![Office365Subscription](images\Office365Subscription.png)
+![Office365Subscription](images/Office365Subscription.png)
 
